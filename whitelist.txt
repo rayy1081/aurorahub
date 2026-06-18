@@ -1,5 +1,0 @@
-# Whitelist - her satira bir Roblox kullanici adi yaz (buyuk/kucuk harf farketmez)
-# Ornek:
-# kullaniciadim
-# RayyyUser123
-tayfunbanlarsanocsun
